@@ -9,7 +9,7 @@ Modul dari latihan ini dapat di akses melalui [Module 5 - Introduction to Java G
 
 ### Bahasa
 
-Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu Java.
+Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu Java GUI.
 
 ### Cara Eksekusi Kode Program
 
