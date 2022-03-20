@@ -21,18 +21,22 @@ Adapun cara mengeksekusi kode program dalam Repository ini adalah dengan cara me
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN5DPBO2022/blob/3106f58447dadd27838f699527d95320a722f808/Screenshot/add.png" alt="add data"/>
 </p>
+
 - ### Validasi
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN5DPBO2022/blob/3106f58447dadd27838f699527d95320a722f808/Screenshot/validasi.png" alt="validasi data"/>
 </p>
+
 - ### Update
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN5DPBO2022/blob/3106f58447dadd27838f699527d95320a722f808/Screenshot/update.png" alt="update data"/>
 </p>
+
 - ### Delete
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN5DPBO2022/blob/3106f58447dadd27838f699527d95320a722f808/Screenshot/delete.png" alt="delete data"/>
 </p>
+
 - ### All Testing in GIF Format
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN5DPBO2022/blob/3106f58447dadd27838f699527d95320a722f808/Screenshot/hasil-gif.gif" alt="gif format testing"/>
